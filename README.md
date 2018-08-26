@@ -2,6 +2,10 @@
 
 Creating a simple JavaScript based memory game.
 
+## Have a go
+
+https://elektrocode.github.io/memory_game/ 
+
 ## Description
 
 The project was a learning exercise on understanding JavaScript, through the guidance of an online tutorial. That was further expanded and customised.
