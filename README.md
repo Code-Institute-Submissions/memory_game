@@ -2,7 +2,7 @@
 
 Creating a simple JavaScript based memory game.
 
-## Have a go
+## Have A Go
 
 https://elektrocode.github.io/memory_game/ 
 
